@@ -1,1 +1,5 @@
 locha.txt
+*.jpg
+!srk.jbg
+/demo
+myfolder/demo
